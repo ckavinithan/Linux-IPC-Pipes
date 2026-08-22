@@ -24,6 +24,7 @@ Testing the C Program for the desired output.
 # PROGRAM:
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
+<<<<<<< HEAD
 ```
 #include <stdio.h>
 #include <stdlib.h>
